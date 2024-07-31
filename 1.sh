@@ -1,4 +1,3 @@
-#!/bin/bash
 path_top=$(pwd)
 echo "最初路径：$path_top"
 export REPO_URL='https://mirrors.tuna.tsinghua.edu.cn/git/git-repo/'
